@@ -14,8 +14,7 @@ const introdata = {
   },
   description:
     "Learning never ends and I think i am curious and enthusiastic to learn the things, can never stop this process in my life !",
-  your_img_url:
-    "https://lh3.googleusercontent.com/YawAdJdcy6Alc6LXfWA8wRHCiNs88-6358exGjXZXt49AsKzDBznd95BAhvAHLXMGDvSHrZXC3OFhuW4nTukaiCOqNaIvNRE2KYhbagmNUAWSgFb59VW0zMyBI88NEaDKZZsCWnq0Tgi2qnLLfw5SOUX2K4fq7o3DL8_WNjlrCEbbV4Pfz8hYO6GjL9bpNsQB7qHEgGNFG6uxwNJSLzpR-c_gNenVaNnBistNCzn_X73PUyOrOZUVZqFd9E_RGMeEH9Q_QgYAozcaH2ROFWcr0g17HHKBADetX5RZDc_Pnq1sHcN1uepUDZIQA8aizhr3aLldy6G6j04L67veGY8npRGIJw_1VnwR9Rya442kWL5AS8pXkUzqaRmN7pPsSr3x9Fp6yUX83LlQjmrZ87CLSegToCf8aAxpHyxxnPEDbWYvTvalOeQJQzjtrt-L-tDopuLyVLP9E7TeBmvgC0W_Lno7gM7qTZ9elaZWRD-1y1SwuNbCtj_P_MxNLxWhqJ9Y-BbiGiv399Yg00uBwJwY9sRXElC7IbL7MqQ766O2oNLgXoRRZFcA07zGiXZlMb6ExFYcayFC2DsXpGHYM1v8YWvH1-zswifmTBSaRhVmsUN4NqXaKOfXml-BLyaGRoy4HNcbfZZl66OaMd85x1V_P5KiHc8RJ5E8pV2w9qbH3IsKgJ46BnTXwenVIMwE6rd_FlyvXbS8YzQcEnA5NQUfAw=s993-no?authuser=0",
+  your_img_url:"https://github.com/charan-saai/charan.github.io/blob/main/src/assets/images/portfolio.jpg?raw=true"
 };
 
 const dataabout = {
