@@ -73,23 +73,23 @@ const dataportfolio = [
   {
     img: "https://t3.ftcdn.net/jpg/04/22/54/18/360_F_422541881_3K2MvO9GrqJK1rLrbyADvq3Z4JmkLUpE.jpg",
     desctiption: "Go Schon",
-    link: "https://github.com/",
+    link: "https://github.com/charan-saai",
   },
   {
     img: "https://thumbs.dreamstime.com/b/data-mining-icon-filled-website-design-mobile-app-development-digital-money-collection-isolated-black-background-155262404.jpg",
     desctiption:
       "An Ensemble Random Forest Algorithm for Insurance Data Analysis",
-    link: "https://github.com/",
+    link: "https://github.com/charan-saai",
   },
   {
     img: "https://cdn.techterms.com/img/xl/zip_162.png",
     desctiption: "IVA.ZIP",
-    link: "https://github.com/",
+    link: "https://github.com/charan-saai",
   },
   {
     img: "https://images-platform.99static.com//ASp0g1NhSm32agUk9JXlTphJRuQ=/831x0:1654x823/fit-in/500x500/99designs-contests-attachments/86/86401/attachment_86401056",
     desctiption: "Cross Burrows wheeler",
-    link: "https://github.com/",
+    link: "https://github.com/charan-saai",
   },
 ];
 
